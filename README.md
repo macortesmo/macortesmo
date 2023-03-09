@@ -22,4 +22,4 @@ My name is Alejandro, I'm from Colombia and I'm an Engineering Manager (EM).
 
 ## Contact
 
-Find all of my socials and resume in my [website](https://fredrikson.com.ar)
+Find all of my socials and resume in my [website](https://www.linkedin.com/in/miguel-alejandro-cortes-molina/)
