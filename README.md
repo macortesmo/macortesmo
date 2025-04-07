@@ -2,7 +2,7 @@
 
 My name is Alejandro, I'm from Colombia and I'm an Engineering Manager (EM).
 
-* Currently searching for a new position as EM 
+
 * I have a [Personal Blog](https://entropicomacm.substack.com/) (in Spanish) about Physics + Philosophy + Technology + Management (Yes, all of this connects).In this Blog, I show you that today it is necessary for a leadership role.
 * I offer consulting hours, about Systems Design and Engineering Management
 * Follow my #mdtwtf on LinkedIn. Every Tuesday, I write about technology and summarize it with a sketch. [here](https://www.linkedin.com/feed/hashtag/?keywords=mdtwtf)
